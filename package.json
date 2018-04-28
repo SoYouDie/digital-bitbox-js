@@ -23,6 +23,6 @@
   "dependencies": {
     "crypto": "^1.0.1",
     "hdkey": "^0.8.0",
-    "u2f": "git+https://github.com/ashtuchkin/u2f.git"
+    "u2f-api": "^1.0.6"
   }
 }
