@@ -5,7 +5,7 @@
 
 'use strict';
 
-var u2f = require('u2f');
+var u2f = require('u2f-api');
 
 var DigitalBitboxUsb = function(timeoutSeconds) {
     this.timeoutSeconds = timeoutSeconds;
