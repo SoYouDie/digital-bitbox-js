@@ -1,0 +1,23 @@
+{
+  "name": "digital-bitbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoYouDie/digital-bitbox-js.git"
+  },
+  "keywords": [
+    "Digital-bitbox",
+    "connect"
+  ],
+  "author": "Roman Boiko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoYouDie/digital-bitbox-js/issues"
+  },
+  "homepage": "https://github.com/SoYouDie/digital-bitbox-js#readme"
+}
