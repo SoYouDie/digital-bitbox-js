@@ -22,7 +22,6 @@
   "homepage": "https://github.com/SoYouDie/digital-bitbox-js#readme",
   "dependencies": {
     "crypto": "^1.0.1",
-    "hdkey": "^0.8.0",
-    "u2f-api": "^1.0.6"
+    "hdkey": "^0.8.0"
   }
 }
